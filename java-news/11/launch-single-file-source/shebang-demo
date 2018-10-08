@@ -1,0 +1,7 @@
+#!/home/watt/opt/jdk/11/latest/bin/java --source 11
+
+public class Demo {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
